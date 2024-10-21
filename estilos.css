@@ -1,0 +1,35 @@
+h1{
+    color: blue;
+}
+.text{
+    color: red;
+    font-size: 1.5em;
+}
+h2{
+    color: rgb(183, 233, 183);
+    font-size: 35px;
+}
+.title{
+    background-color: rgb(161, 199, 161);
+font-size: 2em;
+border: 2px solid red;
+width: fit-content;
+margin: auto;
+padding: 1em;
+border-radius: 30%;
+}
+.title:hover{
+    background-color: chocolate;
+}
+.text:hover{
+    background-color: blueviolet;
+}
+.secciones{
+    color: blueviolet;
+}
+body{
+    background-color: rgb(223, 208, 124);
+}
+img{
+    width: 400px;
+}
